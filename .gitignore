@@ -10,12 +10,14 @@ wheels/
 .venv
 venv/
 env/
-
+marker_env
 # Environment variables (never commit secrets)
 .env
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+graph_project/test
+notebooks
 
 # IDE
 .vscode/
